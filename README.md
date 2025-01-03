@@ -1,29 +1,10 @@
-Ez a projekt egy egyszerű, konzolos (és opcionálisan grafikus) számológép implementációja Pythonban. Célja, hogy bemutassa az alapvető programozási fogalmakat, a verziókezelést (Git) és a feladatkövetést (Trello). A számológép támogatja az alapműveleteket, speciális matematikai függvényeket és opcionálisan memória funkciókat is.
+# Sz�mol�g�p Projekt
 
-## Használati útmutató
+Ez egy egyszer� sz�mol�g�p projekt Pythonban, amely alapm�veleteket, speci�lis m�veleteket �s mem�ria funkci�kat is t�mogat.
 
-A program futtatásához Python 3.x szükséges.
+## Haszn�lat
 
-A repozitórium URL-je: https://github.com/Ldavid20021003-alt/calculator
+A programot a `ui.py` f�jl futtat�s�val lehet elind�tani:
 
-1.  Klónozd a GitHub repozitóriumot:
-
-    ```bash
-    git clone <a repozitórium URL-je>
-    ```
-
-2.  Lépj be a projekt mappájába:
-
-    ```bash
-    cd calculator
-    ```
-
-3.  Futtasd a programot:
-
-    ```bash
-    python ui.py
-    ```
-
-A program egy menüt jelenít meg, ahol kiválaszthatod a kívánt műveletet, majd meg kell adnod a számokat. A program kiírja az eredményt.
-
-**Példa:**
+```bash
+python ui.py
