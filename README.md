@@ -1,0 +1,2 @@
+# calculator
+Egyszerű számológép Pythonban.
