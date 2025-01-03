@@ -4,7 +4,7 @@ Ez a projekt egy egyszerű, konzolos (és opcionálisan grafikus) számológép 
 
 A program futtatásához Python 3.x szükséges.
 
-A repozitórium URL-je: 
+A repozitórium URL-je: https://github.com/Ldavid20021003-alt/calculator
 
 1.  Klónozd a GitHub repozitóriumot:
 
